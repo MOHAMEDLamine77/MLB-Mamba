@@ -1,0 +1,2 @@
+causal_conv1d==1.0.0
+mamba_ssm==1.0.1
